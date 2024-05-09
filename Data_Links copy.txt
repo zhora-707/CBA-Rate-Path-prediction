@@ -1,0 +1,17 @@
+https://www.cba.am/stat/stat_data_eng/8_policy_rates_eng.xlsx
+
+https://analytics.nbg.gov.ge/views/MonetaryPolicyRate/PolicyRatesTable.csv
+
+https://www.cbr.ru/eng/statistics/idkp_br/refinancing_rates_e1/
+
+https://cbr.ru/eng/hd_base/KeyRate/?UniDbQuery.Posted=True&UniDbQuery.From=01.01.2016&UniDbQuery.To=12.04.2024
+
+https://api.cba.am/ExchangeRatesToCSV.ashx?DateFrom=2003-12-01&DateTo=2024-04-01&ISOCodes=USD
+
+https://www.cba.am/stat/stat_data_eng/5_Deposits%20by%20sectors_eng.xlsx
+
+https://www.cba.am/stat/stat_data_eng/core_inflation_CBA_eng.xlsx
+
+https://www.cba.am/stat/stat_data_eng/6_CPI_eng.xls
+
+https://www.cba.am/stat/stat_data_eng/7.International%20reserves_eng.xlsx
